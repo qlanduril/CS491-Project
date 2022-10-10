@@ -1,6 +1,6 @@
 # CS491-Project
 ## What is Bitir?
-Bitir is a web/mobile app which allows users to reach excess food sold at a discounted price selected by the company selling the food. An example can be, Liva wanting to sell the excess cakes it has at the end of the day instead of throwing them out and thus creating an announcement on Bitir for the users and organizations to get cakes for cheap. We aim to have an affect on optimizing the food distiribution efficiency and limit the food waste. 
+Bitir is a web/mobile app which allows users to reach excess and discounted food sold at a discounted price for a selected period of time decided by the company selling the food. An example can be, Liva wanting to sell the excess cakes it has at the end of the day instead of throwing them out and thus creating an announcement on Bitir stating that we have our cakes sold at 50% discount on Friday between 19.00 and 00.00 for the users and organizations to access cakes for cheap. We aim to have an affect on optimizing the food distiribution efficiency and limit the food waste. 
 ### Contibutors List
   Övgüm Can Sezen, 21902418 <br>
   Berkan Sivrikaya, 21803052 <br>
