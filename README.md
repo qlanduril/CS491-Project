@@ -7,3 +7,6 @@ Bitir is a web/mobile app which allows users to reach excess and discounted food
   Gizem Bal, 21601886 <br>
   Doruk Onur Çalışkan, 21902672 <br>
   Arda Eren, 21902505 <br>
+  
+  ### Link to Bitir Development Google-Drive Folder
+  https://drive.google.com/drive/folders/1RGTtz43s2hDF6ETWTkr2Kqxqtun5E_vE?usp=share_link
